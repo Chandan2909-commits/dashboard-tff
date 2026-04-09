@@ -56,11 +56,11 @@ const ADMIN_PASS = 'admin@123';
 // ═══════════════════════════════════════════════════════════════════
 
 // Main Google Sheet API (reads all leads)
-const API_URL = 'https://script.google.com/macros/s/AKfycbzuzQWPc85A9RSJ3mdtYj7NGym8rCOjunMGAMluVEf9k4hssAGrVxwfXG4d1RzYcLoE/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbwRoeDbrZYDc8sY_LTiKGFj3o0JD_oOjpCRKJmuO8bVRDtYo5pRIZVPCG5sdfKEvYXM/exec';
 
 // Closed Queries Google Sheet API
 // After deploying closed_queries_appscript.js as a Web App, paste the URL below:
-const CLOSED_QUERIES_API_URL = 'https://script.google.com/macros/s/AKfycbyJPEdD-3RiP1pzKPCWeJ76hkFOSIZ8nzzP4prihhgE88f94EXtrkoKqpQTii-ybVOq/exec';
+const CLOSED_QUERIES_API_URL = 'https://script.google.com/macros/s/AKfycbyUN55bQ4tKBiTObgZJM16G0_0BJlR8yG64pJuBciavbqPqLmVKR78odvlR2x2m90XpVw/exec';
 
 
 // ═══════════════════════════════════════════════════════════════════
